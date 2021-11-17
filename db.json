@@ -12,12 +12,12 @@
     },
     {
       "id": 3,
-      "name": "Geladeira",
-      "price": 5000.99
+      "name": "Xiaomi Redmi Note 12",
+      "price": "12000"
     },
     {
       "name": "Lapis preto",
-      "price": "2.50",
+      "price": "0.99",
       "id": 4
     }
   ]
